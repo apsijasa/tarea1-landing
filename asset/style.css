@@ -6,6 +6,9 @@
 }
 header{
     background-color:#ECF0F1;
+    height: 100px;
+}
+.logo{
 }
 body{
     color: white;
